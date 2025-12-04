@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**Mg131209/Mg131209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi i'm Mio 👋
+I am a Apprentic in the first year as a IT-technician.  
+## My Skils 👨‍💻
+- Typescript
+- Angular
+- Javascript
+- Html
+- Css
+- Java
+- C#
+## What i Like the most ❤️
+  - Backend Web Developement
+  - Frontend Web Developement
+  ## What i have don 🕧
+  - [Bike Service App](https://github.com/Mg131209/bike-service-app)
+  - [My portfolio page](https://miogalli.ch)
+  
